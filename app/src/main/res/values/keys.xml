@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="public_key_api">be4e82690a4bedea88c718b16ff123eb</string>
+    <string name="private_key_api">8131e8ee47b88239c53880ad4e3ae3353cd517ff</string>
+</resources>
